@@ -2,7 +2,7 @@ package com.example.demo.bean;
 
 
 import java.util.Date;
-
+//entity类
 public class Plant1 {
     private Integer plant;
     private Integer user_id;
